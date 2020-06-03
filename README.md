@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://n.eko.moe/#/" ><img src="https://raw.githubusercontent.com/nurdism/neko/master/docs/_media/logo.png" width="450" height="auto"/></a>
+<a href="https://n.eko.moe/#/" ><img src="https://github.com/Exmanika/dkdkwatch/blob/master/exo-l-bear.png?raw=true" width="450" height="auto"/></a>
 <br/>
 <br/>
 <img src="https://i.imgur.com/ZSzbQr7.gif" width="650" height="auto"/>
